@@ -1,5 +1,5 @@
 // Your WhatsApp number (country code, no + or spaces)
-var WA_NUMBER = "923008537376";
+var WA_NUMBER = "923088883887";
 
 // Mobile menu
 var burger = document.querySelector(".burger");
